@@ -1,0 +1,16 @@
+{
+    "layout": {
+        "app_title": "My Vue Sandbox",
+        "user_name": "Cat Bro",
+        "drawer": {
+            "home": "Home",
+            "table": "Table example",
+            "action_minimize": "Minimize drawer"
+        }
+    },
+    "landing_page": {
+        "title": "Landing page",
+        "subtitle": "with YouTube video in background",
+        "new_video_btn": "new video"
+    }
+}
